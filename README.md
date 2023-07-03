@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://github.com/luizpaulogroup/html-css-js-netflix-little-project/blob/main/image.png?raw=true" style="max-width:100%;">
+    <img src="https://github.com/luizpaulogroup/repositorio/blob/main/image.png?raw=true" style="max-width:100%;">
 </h1>
 
 ## :rocket: Technologies
@@ -28,10 +28,10 @@ To clone this application, you'll need [Git](https://git-scm.com), [Node](https:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizpaulogroup/html-css-js-netflix-little-project
+$ git clone https://github.com/luizpaulogroup/repositorio
 
 # Go into the repository
-$ cd html-css-js-netflix-little-project
+$ cd repositorio
 
 ```
 
